@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="myimage">
+    <file>ute.png</file>
+    <file>pc3.png</file>
+    <file>manchester-united.png</file>
+    <file>pc2.png</file>
+    <file>pc1.png</file>
+    <file>on.png</file>
+    <file>off.png</file>
+    <file>switch2.png</file>
+    <file>switch1.png</file>
+  </qresource>
+</RCC>
